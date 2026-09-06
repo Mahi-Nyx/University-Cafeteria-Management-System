@@ -91,19 +91,19 @@ Stored procedures are used for important database operations and business rules.
 ## System Preview
 
 ### Admin Dashboard
-![Admin Dashboard](Screenshots/AdminDashboard.jpg)
+![Admin Dashboard](AdminDashboard.jpg)
 
 ### Manage Students
-![Manage Students](Screenshots/ManageStudents.jpg)
+![Manage Students](ManageStudents.jpg)
 
 ### Meal Order
-![Meal Order](Screenshots/MealOrder.jpg)
+![Meal Order](MealOrder.jpg)
 
 ### Student Feedback
-![Student Feedback](Screenshots/FeedbackForm.jpg)
+![Student Feedback](FeedbackForm.jpg)
 
 ### Daily Report
-![Daily Report](Screenshots/DailyReport.jpg)
+![Daily Report](DailyReport.jpg)
 
 ## Developer
 
